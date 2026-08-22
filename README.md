@@ -4,7 +4,7 @@ Computer Science Student with hands-on experience in Python development, Data Sc
 
 - 🎓 **Education:** BS Computer Science (Starting Sept 2026)
 - 📜 **Certification:** Python Programming – PITP Sindh
-- 🛠️ **Practical Experience:** Python CLI Utilities, Data Analysis (Pandas/NumPy), SQL Databases, & Security Tools (Termux/Linux)
+- 🛠️ **Practical Experience:** Python CLI Utilities, Data Analysis (Pandas/NumPy), SQL Databases, & CyberSecurity Tools (Termux/Linux)
 - ⚡ **Security Knowledge:** Web Security Basics & SQL Injection Testing
 
 ### 🛠️ Tech Stack & Tools
