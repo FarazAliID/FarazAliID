@@ -3,10 +3,9 @@
 Computer Science Student with hands-on experience in Python development, Data Science, SQL databases, and Cybersecurity tools.
 
 - 🎓 **Education:** BS Computer Science (Starting Sept 2026)
-- 📜 **Certification:** PITP Sindh (Python Basics & Logic Building)
+- 📜 **Certification:** Python Programming – PITP Sindh
 - 🛠️ **Practical Experience:** Python CLI Utilities, Data Analysis (Pandas/NumPy), SQL Databases, & Security Tools (Termux/Linux)
 - ⚡ **Security Knowledge:** Web Security Basics & SQL Injection Testing
-- 📬 **Connect:** [LinkedIn Link] | [Email Address]
 
 ### 🛠️ Tech Stack & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
